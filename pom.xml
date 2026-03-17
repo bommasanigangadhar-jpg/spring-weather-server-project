@@ -8,8 +8,8 @@
 		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>spring-mcp-server-project</artifactId>
+	<groupId>com.spring.weather.mcp</groupId>
+	<artifactId>spring-weather-server-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring AI MCP Weather STDIO server</name>
 	<description>Sample Spring Boot application demonstrating MCP stdio server usage</description>
